@@ -16,13 +16,15 @@ Throughout the course, I worked with different datasets and learned how to appro
 
 ### Topics Covered
 
-| Area                   | Topics                                                     |
-| ---------------------- | ---------------------------------------------------------- |
-| **EDA**                | Data Exploration, Statistical Analysis, Data Visualization |
-| **Data Preprocessing** | Missing Values, Feature Analysis, Data Cleaning            |
-| **Machine Learning**   | Classification, Regression, Logistic Regression            |
-| **Model Evaluation**   | Performance Evaluation, Model Comparison                   |
-| **Tools**              | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn   |
+| Area                    | Topics                                                            |
+| ----------------------- | ----------------------------------------------------------------- |
+| **EDA**                 | Data Exploration, Statistical Analysis, Data Visualization        |
+| **Data Preprocessing**  | Missing Values, Feature Analysis, Data Cleaning                   |
+| **Classification**      | Mobile Price Classification, Bank Personal Loan Modelling         |
+| **Regression**          | Car Price Regression                                              |
+| **Logistic Regression** | Diabetes Prediction                                               |
+| **Model Evaluation**    | Performance Evaluation, Model Comparison                          |
+| **Languages and Tools** | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter |
 
 ---
 
@@ -61,7 +63,7 @@ IMT-Course/
 
 The `EDA` directory contains practical exercises focused on exploring, understanding, and analyzing datasets before applying machine learning models.
 
-The exercises include:
+The exercises include practical work with:
 
 * Dataset structure and statistical analysis
 * Missing value detection and handling
@@ -104,7 +106,7 @@ Each project contains the corresponding dataset and Jupyter Notebook used throug
 
 ---
 
-## Technologies
+## Languages and Tools
 
 <p align="center">
 
@@ -158,9 +160,3 @@ This repository represents a practical record of my progress throughout the cour
 Rather than containing only theoretical material, it focuses on **hands-on implementation**, documenting the process of working with data, analyzing it, and applying machine learning techniques to different problems.
 
 It also serves as a foundation for continuing my learning journey in **Data Science and Machine Learning**.
-
----
-
-<p align="center">
-  <i>Building practical skills through continuous learning and experimentation.</i>
-</p>
